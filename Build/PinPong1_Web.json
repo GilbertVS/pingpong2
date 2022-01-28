@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pinpon",
+"productVersion": "0.1",
+"dataUrl": "PinPong1_Web.data.unityweb",
+"wasmCodeUrl": "PinPong1_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "PinPong1_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "PinPong1_Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
